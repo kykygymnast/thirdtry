@@ -1,0 +1,44 @@
+ul{
+    font-size: 20px;
+
+}
+body{
+    background-color: lightgray;
+    text-align: center;
+    border: 5px solid gray;
+    margin: 20px;
+    padding: 15px;
+
+}
+ol{
+    text-align: left;
+    display: inline-block;
+}
+.event{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.bullets{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.beg{
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+.subtitle{
+    font-size: 20px;
+    font-style:italic 
+}
+
+
+.footer{
+    font-size: 18x;
+    color: black;
+    position: relative;
+}
+.common{
+    font-size: 18px;
+}
